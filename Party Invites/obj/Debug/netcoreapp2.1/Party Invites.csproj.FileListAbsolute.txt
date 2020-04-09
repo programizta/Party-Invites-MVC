@@ -1,0 +1,38 @@
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Party Invites.deps.json
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Party Invites.runtimeconfig.json
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Party Invites.runtimeconfig.dev.json
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Party Invites.dll
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Party Invites.pdb
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Party Invites.Views.dll
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\bin\Debug\netcoreapp2.1\Party Invites.Views.pdb
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.RazorAssemblyInfo.cache
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.RazorAssemblyInfo.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.AssemblyInfoInputs.cache
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.AssemblyInfo.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.TagHelpers.input.cache
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.TagHelpers.output.cache
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.RazorCoreGenerate.cache
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.RazorTargetAssemblyInfo.cache
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.RazorTargetAssemblyInfo.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.Views.pdb
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.dll
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.pdb
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Party Invites.csproj.CopyComplete
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\Peter\Desktop\Programming\C#\Party Invites\Party Invites\obj\Debug\netcoreapp2.1\Razor\Views\Home\ListResponses.cshtml.g.cs
